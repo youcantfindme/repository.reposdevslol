@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.filmnet.artwork" version="1.0.0" name="Filmnet Artwork" provider-name="Bugatsinho, Thgiliwt">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Themes for the Filmnet Addon</summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
