@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.filmnet" version="1.0.02" name="Filmnet" provider-name="Filmnet Devs Team">
+<addon id="plugin.video.filmnet" version="1.0.03" name="Filmnet" provider-name="Filmnet Devs Team">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.filmnet" />
